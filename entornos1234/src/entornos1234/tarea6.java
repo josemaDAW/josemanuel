@@ -1,4 +1,4 @@
-package tarea6;
+package entornos1234;
 
 
 import java.util.Scanner;
